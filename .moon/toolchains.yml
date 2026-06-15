@@ -1,0 +1,9 @@
+javascript:
+  packageManager: "yarn"
+  inferTasksFromScripts: true
+
+node: 
+  version: "24.16.0"
+
+yarn: 
+  version: "4.17.0"

@@ -1,0 +1,10 @@
+{
+  "name": "moon-example-docker-prune-bug",
+  "packageManager": "yarn@4.17.0",
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "test:docker:issue-2573": "bash ./scripts/test-docker-issue-2573.sh"
+  }
+}

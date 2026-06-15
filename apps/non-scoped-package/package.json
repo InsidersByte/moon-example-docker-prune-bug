@@ -1,0 +1,9 @@
+{
+  "name": "non-scoped-package",
+  "dependencies": {
+    "dayjs": "^1.11.21"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
